@@ -100,7 +100,7 @@ public:
         cout << "\n";
     }
 
-    // Добавленные методы:
+
     unsigned int GetSize() const
     {
         return size;
